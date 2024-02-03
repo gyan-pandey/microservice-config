@@ -1,6 +1,5 @@
-
 spring:
-  app;ication:
+  application:
     name: Config-dev
 
 eureka:

@@ -1,6 +1,6 @@
 spring:
-  app;ication:
-    name: Config-Default
+  application:
+    name: Config-default
 
 eureka:
   client:
